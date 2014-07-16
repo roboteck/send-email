@@ -1,0 +1,8 @@
+## Python Files
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Translations
+*.mo
+
