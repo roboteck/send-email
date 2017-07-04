@@ -4,7 +4,7 @@
 """
 Send an email from the command line.
 """
-__version__ = "0.1"
+__version__ = "0.5"
 
 import getopt
 import sys
